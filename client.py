@@ -6,7 +6,7 @@ import pickle
 
 # Connect to the remote server
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-client_socket.connect(('your_server_ip', 8485))  # Replace 'your_server_ip' with the actual server IP
+client_socket.connect((' https://hari417.github.io/drone/', 8485))  # Replace 'your_server_ip' with the actual server IP
 connection = client_socket.makefile('wb')
 
 cam = cv2.VideoCapture(0)

@@ -1,6 +1,7 @@
 # Flask Video Streaming
 
 This project demonstrates how to stream video from a local PC's webcam to a remote server using Flask and OpenCV.
+This is part of the project the next stage is to develop an autopiloting system that gets input from the object recognition module on the onboard computer.
 
 ## Prerequisites
 

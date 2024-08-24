@@ -17,3 +17,12 @@ This is part of the project the next stage is to develop an autopiloting system 
    ```bash
    git clone https://github.com/your_username/flask-video-streaming.git
    cd flask-video-streaming
+
+
+### latest update on drone as of 20-aug 2024
+## Drone First Flight
+
+https://github.com/user-attachments/assets/f5147da2-3a1e-4cc4-b05c-f3f0c0422817
+
+
+
